@@ -8,7 +8,7 @@ use App\Models\Attendance;
 
 class AdminAttendanceController extends Controller
 {
-    //   
+    //
 
     public function index()
     {
